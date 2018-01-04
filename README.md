@@ -1,6 +1,9 @@
 
 Experimental Production bundling with Rollup:
 
+Prerequisites: Please use Node 8, the build is currently failing with Node 9.
+
+
 Install dependencies:
 
 ```
